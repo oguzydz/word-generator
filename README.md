@@ -1,4 +1,4 @@
-# Word_generator
+# Word Generator
 It generates a json for words' cluster. 
 
 ## It is created using jQuery Tech and PHP
